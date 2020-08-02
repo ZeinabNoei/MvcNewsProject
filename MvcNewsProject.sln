@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcNewsProject", "MyCmsNewsProject\MvcNewsProject.csproj", "{D5AE60B0-D549-4D64-BB1C-2A561E1306BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{970E1E02-0D16-4F99-A9A6-A18E525703A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AE60B0-D549-4D64-BB1C-2A561E1306BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AE60B0-D549-4D64-BB1C-2A561E1306BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AE60B0-D549-4D64-BB1C-2A561E1306BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AE60B0-D549-4D64-BB1C-2A561E1306BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970E1E02-0D16-4F99-A9A6-A18E525703A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970E1E02-0D16-4F99-A9A6-A18E525703A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970E1E02-0D16-4F99-A9A6-A18E525703A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970E1E02-0D16-4F99-A9A6-A18E525703A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A0EE59-3575-4436-B2D5-766C71444D7D}
+	EndGlobalSection
+EndGlobal

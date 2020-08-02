@@ -1,0 +1,96 @@
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.dll.config
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.Helpers.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.Mvc.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.WebPages.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.xml
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.dll
+D:\ProjectMvc\C#2017\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.Helpers.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.WebPages.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.xml
+D:\Project\MyCmsNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.dll
+D:\Project\MyCmsNewsProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\System.Web.Helpers.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.xml
+D:\Project\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.dll
+D:\Project\MvcNewsProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\System.Web.Helpers.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.xml
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.Cache
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.dll
+D:\Project\Project MVC.net\MvcNewsProject\DataLayer\obj\Debug\DataLayer.pdb
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\DataLayer.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\DataLayer.pdb
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\System.Web.Helpers.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\System.Web.Mvc.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.xml
+D:\Project\MVCProject\MvcNewsProject\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Initial_Database.resources
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_Tags_Pages.resources
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.Migrations.Add_AdminLogins.resources
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.dll
+D:\Project\MVCProject\MvcNewsProject\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,445 @@
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.pdb
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csc.rsp
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\csi.rsp
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.AppContext.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Console.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Compression.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Claims.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.ValueTuple.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\vbc.rsp
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\ABlue.PersianDateTime.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\DataLayer.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\EntityFramework.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Owin.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Razor.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\WebGrease.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\DataLayer.pdb
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\DataLayer.dll.config
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.Razor.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.pdb
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\EntityFramework.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\obj\Debug\MvcNewsProject.csprojResolveAssemblyReference.cache
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.dll
+D:\Project\MyCmsNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.pdb
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.pdb
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.rsp
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.rsp
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.AppContext.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Console.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Compression.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Claims.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.ValueTuple.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.rsp
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\ABlue.PersianDateTime.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Owin.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\WebGrease.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.pdb
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll.config
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.pdb
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\MvcNewsProject\MyCmsNewsProject\obj\Debug\MvcNewsProject.csprojResolveAssemblyReference.cache
+D:\Project\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.dll
+D:\Project\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.pdb
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.pdb
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.rsp
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.rsp
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.AppContext.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Console.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Compression.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Claims.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.ValueTuple.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.rsp
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\ABlue.PersianDateTime.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Owin.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\WebGrease.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.pdb
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll.config
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.pdb
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\obj\Debug\MvcNewsProject.csprojResolveAssemblyReference.cache
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.dll
+D:\Project\Project MVC.net\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.pdb
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\MyCmsNewsProject.pdb
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.exe.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csc.rsp
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.exe.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\csi.rsp
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.AppContext.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Console.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Compression.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.IO.Pipes.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Claims.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.ValueTuple.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.exe.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\vbc.rsp
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\ABlue.PersianDateTime.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Owin.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\WebGrease.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.pdb
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\DataLayer.dll.config
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Helpers.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Mvc.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Optimization.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.Razor.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Web.WebPages.Razor.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Newtonsoft.Json.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Antlr3.Runtime.pdb
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\EntityFramework.SqlServer.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Google.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\obj\Debug\MvcNewsProject.csprojAssemblyReference.cache
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\obj\Debug\MvcNewsProject.csproj.CopyComplete
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.dll
+D:\Project\MVCProject\MvcNewsProject\MyCmsNewsProject\obj\Debug\MyCmsNewsProject.pdb
